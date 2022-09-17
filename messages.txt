@@ -1,0 +1,250 @@
+> Message: Gosh.
+     > Timestamp: 2022-09-17T17:00:20.632000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020741007471562763
+     > Author: rx1337
+> Message: https://github.com/gowon-bot/gowon/blob/main/config.example.json
+     > Timestamp: 2022-09-17T17:00:19.162000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020741001305935952
+     > Author: rx1337
+> Message: thats hella weird
+     > Timestamp: 2022-09-17T16:59:12.965000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020740723655594155
+     > Author: ent0001
+> Message: 
+     > Timestamp: 2022-09-17T16:58:56.990000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020740656651587604
+     > Author: rx1337
+> Message: what the fuck
+     > Timestamp: 2022-09-17T16:58:50.662000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020740630110019597
+     > Author: rx1337
+> Message: it works
+     > Timestamp: 2022-09-17T16:58:49.600000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020740625655672915
+     > Author: rx1337
+> Message: 
+     > Timestamp: 2022-09-17T16:58:47.541000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020740617019596830
+     > Author: Gowon3723
+> Message: shit feature
+     > Timestamp: 2022-09-17T16:58:31.971000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020740551714279456
+     > Author: rx1337
+> Message: no
+     > Timestamp: 2022-09-17T16:58:30.738000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020740546542710894
+     > Author: rx1337
+> Message: please
+     > Timestamp: 2022-09-17T16:58:26.250000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020740527718670356
+     > Author: ent0001
+> Message: ,reskin
+     > Timestamp: 2022-09-17T16:58:14.654000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020740479081533592
+     > Author: ent0001
+> Message: Nigggaaa
+     > Timestamp: 2022-09-17T16:58:11.898000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020740467522023536
+     > Author: ent0001
+> Message: which some how has spotufy cmds
+     > Timestamp: 2022-09-17T16:57:55.663000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020740399427498067
+     > Author: rx1337
+> Message: lastfm bot
+     > Timestamp: 2022-09-17T16:57:53.269000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020740389386334259
+     > Author: rx1337
+> Message: what's Gowon
+     > Timestamp: 2022-09-17T16:57:48.376000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020740368863596674
+     > Author: swag5000
+> Message: 
+     > Timestamp: 2022-09-17T16:56:56.373000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020740150747218050
+     > Author: Gowon3723
+> Message: 😎
+     > Timestamp: 2022-09-17T16:56:32.850000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020740052084605060
+     > Author: ent0001
+> Message: Im gonna give them access to my spotify account
+     > Timestamp: 2022-09-17T16:56:31.552000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020740046640386272
+     > Author: ent0001
+> Message: scam ass shit
+     > Timestamp: 2022-09-17T16:56:17.772000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020739988842872834
+     > Author: rx1337
+> Message: but i dont
+     > Timestamp: 2022-09-17T16:56:13.892000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020739972568973392
+     > Author: rx1337
+> Message: how do they have a fucking app
+     > Timestamp: 2022-09-17T16:56:13.055000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020739969058361414
+     > Author: rx1337
+> Message: https://accounts.spotify.com/authorize?response%5ftype=code&client%5fid=4d84d9110e7b428595a576dc5c235786&scope=playlist-modify-public%20user-library-modify%20user-library-read%20user-modify-playback-state%20playlist-read-private%20playlist-modify-public%20playlist-modify-private&redirect%5furi=https%3A%2F%2Fapi.gowon.ca%2Fwebhooks%2Fspotify
+     > Timestamp: 2022-09-17T16:56:06.093000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020739939857596537
+     > Author: rx1337
+> Message: 
+     > Timestamp: 2022-09-17T16:55:39.760000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020739829409009786
+     > Author: wock8449
+> Message: ,role gowon rx@
+     > Timestamp: 2022-09-17T16:55:39.588000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020739828687581194
+     > Author: rx1337
+> Message: sigh
+     > Timestamp: 2022-09-17T16:55:37.205000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020739818692542515
+     > Author: rx1337
+> Message: 
+     > Timestamp: 2022-09-17T16:55:35.185000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020739810220060783
+     > Author: wock8449
+> Message: ,role gowon wock
+     > Timestamp: 2022-09-17T16:55:34.968000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020739809309884486
+     > Author: rx1337
+> Message: Hello 🥂
+     > Timestamp: 2022-09-17T16:55:33.018000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020739801131003906
+     > Author: kinte0001
+> Message: I Missed You
+     > Timestamp: 2022-09-17T16:55:18.935000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020739742062608434
+     > Author: ent0001
+> Message: Its The Dude That Type Likes This
+     > Timestamp: 2022-09-17T16:55:14.908000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020739725172154469
+     > Author: ent0001
+> Message: 14
+     > Timestamp: 2022-09-17T16:55:00.998000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020739666829398106
+     > Author: kinte0001
+> Message: &slogin
+     > Timestamp: 2022-09-17T16:55:00.609000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020739665197809734
+     > Author: rx1337
+> Message: alrighty
+     > Timestamp: 2022-09-17T16:54:53.930000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020739637184036915
+     > Author: ent0001
+> Message: Ah
+     > Timestamp: 2022-09-17T16:54:52.692000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020739631991500890
+     > Author: ent0001
+> Message: discords api functions differently for banners
+     > Timestamp: 2022-09-17T16:54:49.553000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020739618825576478
+     > Author: rx1337
+> Message: why
+     > Timestamp: 2022-09-17T16:54:42.328000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020739588521721927
+     > Author: ent0001
+> Message: dont even suggest it
+     > Timestamp: 2022-09-17T16:54:39.798000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020739577910132766
+     > Author: rx1337
+> Message: impossible
+     > Timestamp: 2022-09-17T16:54:37.949000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020739570154881095
+     > Author: rx1337
+> Message: what kind of bullshit
+     > Timestamp: 2022-09-17T16:54:35.130000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020739558331125841
+     > Author: rx1337
+> Message: but i dont
+     > Timestamp: 2022-09-17T16:54:33.188000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020739550185787406
+     > Author: rx1337
+> Message: hwo do they have a public spotify app
+     > Timestamp: 2022-09-17T16:54:32.332000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020739546595475596
+     > Author: rx1337
+> Message: thats going right into suggest yo
+     > Timestamp: 2022-09-17T16:54:31.552000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020739543323914352
+     > Author: ent0001
+> Message: 
+     > Timestamp: 2022-09-17T16:54:24.062000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020739511908577331
+     > Author: Gowon3723
+> Message: 
+     > Timestamp: 2022-09-17T16:54:10.990000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020739457080639498
+     > Author: Gowon3723
+> Message: ,banners
+     > Timestamp: 2022-09-17T16:54:10.839000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020739456447303791
+     > Author: ent0001
+> Message: lol
+     > Timestamp: 2022-09-17T16:54:10.325000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020739454291427461
+     > Author: glory0007
+> Message: Yea Na.
+     > Timestamp: 2022-09-17T16:53:42.731000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020739338553794620
+     > Author: rx1337
+> Message: stupid bot
+     > Timestamp: 2022-09-17T16:53:17.905000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020739234425995336
+     > Author: rx1337
+> Message: 
+     > Timestamp: 2022-09-17T16:53:15.386000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020739223860543590
+     > Author: rx1337
+> Message: i literlly did
+     > Timestamp: 2022-09-17T16:53:09.187000+00:00
+     > Channel ID: 1008188454112346112
+     > Message ID: 1020739197860073574
+     > Author: rx1337
