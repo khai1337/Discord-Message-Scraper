@@ -1,2 +1,6 @@
 # Discord-Message-Scraper
-Scrapes the maximum amount of messages in a discord channel and logs in a .txt file.
+Scrapes discord messages in a channel
+![Preview](https://i.imgur.com/kftWeAC.png)
+# Contact
+Discord: kh#1337
+OGU: /solicit
