@@ -7,7 +7,7 @@ import colorama
 from colorama import Fore
 from discord.ext import commands
 
-os.system('title message logger by kh#1337')
+os.system('title message logger')
 
 channelid = input(f'{Fore.MAGENTA} > {Fore.RESET} Channel ID: ')
 
